@@ -22,6 +22,7 @@ namespace CairoDesktop.Localization
             new KeyValuePair<string, string>("Turkish (Türkçe)", "tr_TR"),
             new KeyValuePair<string, string>("한국어", "ko_KR"),
             new KeyValuePair<string, string>("Magyar (Hungarian)", "hu_HU")
+            new KeyValuePair<string, string>("Українська", "uk_UA"),
         };
 
         public DisplayString()
